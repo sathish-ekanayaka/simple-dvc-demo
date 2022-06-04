@@ -10,3 +10,5 @@ Download the Data (wine quality dataset)
 git init 
 
 dvc init
+
+dvc add data_given/winequality.csv
