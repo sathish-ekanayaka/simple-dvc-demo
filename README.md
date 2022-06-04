@@ -21,3 +21,9 @@ git commit -m "first commit"
 
 && git add . && git commit -m  "Commiting to GitHub" -: && is used to combine commands
 
+git remote add origin https://github.com/sathish-ekanayaka/simple-dvc-demo.git
+
+git branch -M main
+
+git push origin main
+
