@@ -1,5 +1,8 @@
-Created an Environment
+conda create -n wineq python=3.9 -y
 
-Done the first commit
+conda activate wineq
 
-Done the second commit
+created a req.txt file
+pip install -r reqirements.txt
+
+
