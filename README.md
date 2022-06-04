@@ -11,4 +11,13 @@ git init
 
 dvc init
 
-dvc add data_given/winequality.csv
+dvc add data_given/winequality.csv -: Tracking the data
+
+/*important git commands*/
+
+git add . -:  What ever is present in my current woeking directory is added to the staging area of the git.
+
+git commit -m "first commit" 
+
+&& git add . && git commit -m  "Commiting to GitHub" -: && is used to combine commands
+
